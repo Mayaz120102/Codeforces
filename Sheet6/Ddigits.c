@@ -18,7 +18,5 @@ int main()
          
         digits(n);
         printf("\n");
-
-    }
-    
+    } 
 }
