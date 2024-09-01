@@ -16,9 +16,7 @@ int main(){
     for(int i=0;i<n;i++){
         scanf("%d",&a[i]);
     }
-    //maximum(n,a,a[0],0);
     
-
     printf("%d\n",maximum(n,a,a[0],0));
     return 0;
 }
