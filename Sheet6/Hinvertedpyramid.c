@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<string.h>
+
 void invertpyramid(int n,int i){
     if(i<=0){
         return;
